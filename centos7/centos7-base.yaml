@@ -4,7 +4,7 @@ metadata:
   name: centos7-base
   namespace: centos7-base
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: centos7-base
